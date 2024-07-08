@@ -10,7 +10,7 @@
       "cover_medium": {
         "uri": "720x720/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c",
         "url_list": [
-          "https://p3-pc.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c.jpeg?from=116350172"
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720,
         "height": 720
@@ -18,7 +18,7 @@
       "cover_thumb": {
         "uri": "100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c",
         "url_list": [
-          "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c.jpeg?from=116350172"
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720,
         "height": 720
@@ -26,8 +26,8 @@
       "play_url": {
         "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
         "url_list": [
-          "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
-          "https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3"
+          "https://www.bilibili.com/video/BV1K2421A7hg",
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720,
         "height": 720,
@@ -43,7 +43,7 @@
       "play_addr": {
         "uri": "v0d00fg10000cj1lq4jc77u0ng6s1gt0",
         "url_list": [
-          "https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000cj1lq4jc77u0ng6s1gt0&line=0&file_id=bed51c00899b458cbc5d8280147c22a1&sign=7749aec7bd62a3760065f60e40fc1867&is_play_url=1&source=PackSourceEnum_PUBLISH"
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 1080,
         "height": 1920,
@@ -160,7 +160,7 @@
         "height": 720,
         "uri": "aweme-avatar/mosaic-legacy_20b7700050147c01968f3",
         "url_list": [
-          "https://p3-pc.douyinpic.com/img/aweme-avatar/mosaic-legacy_20b7700050147c01968f3~c5_168x168.jpeg?from=2956013662"
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720
       },
@@ -168,7 +168,7 @@
         "height": 720,
         "uri": "aweme-avatar/mosaic-legacy_20b7700050147c01968f3",
         "url_list": [
-          "https://p3-pc.douyinpic.com/img/aweme-avatar/mosaic-legacy_20b7700050147c01968f3~c5_300x300.jpeg?from=2956013662"
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720
       },
@@ -182,22 +182,22 @@
           "goto_url": "sslocal://goods/shop?uid=59054327754&sec_uid=MS4wLjABAAAAe_AKPvxBX0C_4vyLj5Wye-_BU8M0S6tZFZUu61FuycU",
           "icon_dark": {
             "url_list": [
-              "https://lf3-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-3x.png",
-              "https://lf9-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-3x.png",
-              "https://lf26-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-3x.png",
-              "https://lf3-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-2x.png",
-              "https://lf9-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-2x.png",
-              "https://lf26-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_dark-2x.png"
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg"
             ]
           },
           "icon_light": {
             "url_list": [
-              "https://lf3-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-3x.png",
-              "https://lf9-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-3x.png",
-              "https://lf26-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-3x.png",
-              "https://lf3-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-2x.png",
-              "https://lf9-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-2x.png",
-              "https://lf26-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-2x.png"
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg",
+              "https://www.bilibili.com/video/BV1K2421A7hg"
             ]
           },
           "sub_title": "6件好物",
@@ -295,8 +295,8 @@
       "cover_medium": {
         "uri": "tos-cn-v-2774c002/8a56e9005cdd495995bb363bf05b3acc",
         "url_list": [
-          "https://p3-sign.douyinpic.com/tos-cn-v-2774c002/8a56e9005cdd495995bb363bf05b3acc~200x200.jpeg?lk3s=08d74b56&x-expires=1710576724&x-signature=VucON4XTlKnrxSw7Wqxk3bSec14%3D",
-          "https://p9-sign.douyinpic.com/tos-cn-v-2774c002/8a56e9005cdd495995bb363bf05b3acc~200x200.jpeg?lk3s=08d74b56&x-expires=1710576724&x-signature=Iy8O%2F%2FxGebGOLjlIWu1C55M0UFo%3D"
+          "https://www.bilibili.com/video/BV1K2421A7hg",
+          "https://www.bilibili.com/video/BV1K2421A7hg"
         ],
         "width": 720,
         "height": 720
